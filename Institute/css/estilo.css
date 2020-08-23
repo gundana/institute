@@ -1,0 +1,117 @@
+
+
+@media only screen and (min-width: 993px) {
+  .container{
+    width: 90%;
+  }
+}
+.nav{padding: 2px;}
+
+.logo_text{font-size:15;margin:0px; color: grey;text-align: center;position:static;padding-top: -10px;padding-bottom: 175px}
+.test1{width: 250px;height:58px;  margin-top:-2px; position: absolute;padding-right: -50px;padding-left: 140px;
+
+}
+
+nav a img:hover{opacity:0.6;}
+.cabecalho{background: blue;}
+.logo_text2{font-size:15;margin:4px; color: grey;text-align: center;position:static;padding-bottom:0px}
+.container{width: 20px;}
+nav ul li:hover { background-color:none; text-decoration: underline;padding: -10px;text-decoration-color: red;  }
+   
+nav ul li a{
+  color: black;
+} 
+.header{width: 794px; height: 444px;}
+.pnoticia{color: white;
+ font-family: 'Do Hyeon', sans-serif;
+font-family: 'Galada', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+body{background:white; padding: 0px;}
+.altura{padding: 43px;}
+
+.grid1{color: black; font-family: 'Do Hyeon', sans-serif;}
+.rodapelink{color: white}
+.cursostitulo{background: grey; color: blue;}
+
+.card-title{ font-family: 'Do Hyeon', sans-serif;}
+.top{margin-top: 20px;}
+.paragrafo1{ font-family: 'Do Hyeon', sans-serif;;font-size: 20px;}
+.paragrafocursos{font-family: 'Do Hyeon', sans-serif;;font-size: 17px; padding: 10px;}
+.paragrafovisao{font-family: 'Do Hyeon', sans-serif;font-size: 18px;}
+.paragrafo2{color:red;font-size: 15px;font-family:  }
+.paragrafo3{font-size: 16px;  font-family: 'Do Hyeon', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;}
+.card-image{}
+/* Inicio do  titulo do IMPCV no slider */
+.title{font-family: 'Do Hyeon', sans-serif; background: blue;color:white;  float:left;text-align: left;padding-left: 50px;padding: 0px;
+ height:-40px;}
+ .btn-large{padding: 8px;text-align: center;}
+ .saibamais{padding: 20px;}
+
+.Variedadecursos{color: black;}
+.custom{font-family: font-family: 'Do Hyeon', sans-serif; background: grey;color:white; float:left;text-align: left;padding-left: 57px;padding: 10px;
+	margin-top: -10px; }
+	.custom1{font-size: 20px;
+		font-family: font-family: 'Do Hyeon', sans-serif; background: white;color:black; float:left;text-align: left;padding-left: 57px;padding: 14px;
+	margin-top: -25px; }
+	/* Fim do  titulo do IMPCV no slider */
+
+
+	/* inicio formulario newsletter */
+	
+	/*fim do formulario newslatter */
+#noticiaimg1 { display: block;
+}
+.noticiacor{background: #79b3f8; padding: 27px;}
+
+.titulos{font-family: 'Fjalla One', sans-serif; font-size: 36px; color: blue; margin-top: -4px;padding: 10px;}
+.titulos1{font-family: 'Fjalla One', sans-serif; font-size: 36px; color: black; margin-top: -10px; padding: 27px;}
+.paragrafoindex{padding: 5px;margin-top: -3px;}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: white;
+  color: grey;
+  border-radius: 50%;
+  text-align: left;
+  letter-spacing: 1em;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: white;
+  color: grey;
+  border-radius: 50%;}
+
+  .fa-google {
+  background: white;
+  color: grey;
+  border-radius: 50%;
+  text-align: right;
+}
+
+
+.indicators{background:; text-decoration: none; color: white;}
+li.indicator-item{color: white;}
+.indicator{color: white;}
